@@ -12,7 +12,7 @@
 Responsive cards that fit your website's content
 
 ## Demo
-![-](card_`2.jpg)
+![-](card_2.jpg)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
